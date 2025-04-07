@@ -15,7 +15,16 @@ public class GoFish {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Launching Go Fish Game...");
+
+        // Create an instance of GoFishGame
+        GoFishGame game = new GoFishGame("Go Fish");
+
+        // Start the game
+        game.play();
+
+        // Declare the winner at the end
+        game.declareWinner();
     }
     
 }
