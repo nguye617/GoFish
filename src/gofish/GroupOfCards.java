@@ -9,7 +9,8 @@ import java.util.Collections;
 
 /**
  *
- * @author T1000
+ * @author Dong
+ * @author Jiya
  */
 public class GroupOfCards {
     private ArrayList<Card> cards;

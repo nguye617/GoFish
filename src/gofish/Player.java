@@ -9,7 +9,8 @@ import java.util.ArrayList;
 
 /**
  *
- * @author T1000
+ * @author Dong
+ * @author Jiya
  */
 public abstract class Player {
     protected String name;

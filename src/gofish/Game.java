@@ -7,7 +7,8 @@ import java.util.List;
 
 /**
  *
- * @author T1000
+ * @author Dong
+ * @author Jiya
  */
 public abstract class Game {
     protected String gameName;

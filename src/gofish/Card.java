@@ -7,6 +7,7 @@ package gofish;
 /**
  *
  * @author Dong NGuyen
+ * @Jiya
  */
 public class Card {
     private final String rank;

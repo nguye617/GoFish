@@ -6,7 +6,8 @@ package gofish;
 
 /**
  *
- * @author T1000
+ * @author Dong
+ * @author Jiya
  */
 public class GoFishGame extends Game {
 
