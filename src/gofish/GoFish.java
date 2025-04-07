@@ -1,4 +1,4 @@
-/*
+ /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
@@ -8,6 +8,8 @@ package gofish;
  *
  * @Dong Nguyen
  * @Id 991756472
+ * @Jiya
+ * @Id 991755188
  */
 public class GoFish {
 
