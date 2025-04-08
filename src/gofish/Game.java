@@ -10,8 +10,8 @@ import java.util.List;
  * @author T1000
  */
 public abstract class Game {
-    protected String gameName;
-    protected List<Player> players;
+    private String gameName;
+    private List<Player> players;
 
     public Game(String gameName) {
         this.gameName = gameName;

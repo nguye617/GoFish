@@ -12,8 +12,8 @@ import java.util.ArrayList;
  * @author T1000
  */
 public abstract class Player {
-    protected String name;
-    protected ArrayList<Card> hand;
+    private String name;
+    private ArrayList<Card> hand;
 
     public Player(String name) {
         this.name = name;
