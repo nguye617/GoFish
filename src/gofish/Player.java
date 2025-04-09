@@ -13,8 +13,8 @@ import java.util.ArrayList;
  * @author Jiya
  */
 public abstract class Player {
-    private String name;
-    private ArrayList<Card> hand;
+    String name;
+    ArrayList<Card> hand;
 
     public Player(String name) {
         this.name = name;
